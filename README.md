@@ -22,3 +22,6 @@ El bot de chat escucha los mensajes del usuario y los utiliza como entrada para 
 
 ## Contribución
 Si desea contribuir a este proyecto, puede enviar un pull request o crear una nueva issue en Github. Se aceptan sugerencias de mejora, errores o nuevas características.
+
+I𝐧𝐭𝐞𝐠𝐫𝐚𝐜𝐢𝐨́𝐧 𝐝𝐞 𝐂𝐡𝐚𝐭𝐆𝐏𝐓 𝐞𝐧 𝐌𝐢𝐜𝐫𝐨𝐬𝐨𝐟𝐭 𝐁𝐨𝐭 𝐅𝐫𝐚𝐦𝐞𝐰𝐨𝐫𝐤
+https://www.youtube.com/watch?v=GHfxnb6FGV4
